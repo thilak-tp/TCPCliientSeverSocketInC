@@ -1,6 +1,6 @@
 This is the Readme for the TCP Socket program.
 
-Developers involved: Thilak T P, Bindushree N G, Thilak T P, Sivakannan
+Developers involved: Thilak T P, Bindushree N G, Bhakti Bhataria, Sivakannan
 
 
 This is a simple example of TCP Socket Programming where in we test the Protocol
